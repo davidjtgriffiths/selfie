@@ -1,0 +1,7 @@
+{
+  "name": "nota-dev",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
