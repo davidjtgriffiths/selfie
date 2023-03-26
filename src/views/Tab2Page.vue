@@ -2,7 +2,7 @@
     <ion-page>
       <ion-header>
         <ion-toolbar>
-          <ion-title>Photo Gallery</ion-title>
+          <ion-title>Selfie Gallery</ion-title>
         </ion-toolbar>
       </ion-header>
       <ion-content>
